@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/app_core/__init__.py
+src/app_core/repo.py
+src/data_app_starter.egg-info/PKG-INFO
+src/data_app_starter.egg-info/SOURCES.txt
+src/data_app_starter.egg-info/dependency_links.txt
+src/data_app_starter.egg-info/requires.txt
+src/data_app_starter.egg-info/top_level.txt
+tests/test_api.py

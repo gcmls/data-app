@@ -1,4 +1,4 @@
-# Data App (FastAPI + Streamlit) — Full
+s# Data App (FastAPI + Streamlit) — Full
 A clean data app pattern with a FastAPI backend exposing dataset stats/samples/aggregates and a Streamlit front-end.
 
 ## Quickstart

@@ -1,0 +1,24 @@
+Metadata-Version: 2.4
+Name: data-app-starter
+Version: 1.0.0
+Summary: Full data app starter with FastAPI and Streamlit.
+Requires-Python: >=3.10
+License-File: LICENSE
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: pydantic>=2
+Requires-Dist: pandas
+Requires-Dist: polars
+Requires-Dist: duckdb
+Requires-Dist: sqlalchemy
+Requires-Dist: python-dotenv
+Requires-Dist: streamlit
+Requires-Dist: requests
+Requires-Dist: plotly
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: pytest-cov; extra == "dev"
+Requires-Dist: ruff; extra == "dev"
+Requires-Dist: black; extra == "dev"
+Requires-Dist: isort; extra == "dev"
+Dynamic: license-file
